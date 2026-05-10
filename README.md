@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vranto-shopno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Vranto Shopno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vranto-shopno/) |
+| **Get License** | [Request Licensing for Vranto Shopno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vranto-shopno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> হারিয়ে যাওয়া কোনো এক সুরে, খুঁজি আমি তোমায়
+> নীরব রাতের এই গভীরে, মন যে শুধু হারায়
+> অচেনা এক মায়াবী টানে, কাছে আসি আমি
+> আমার এই শূন্য ভুবনে, তুমি যে অনেক দামি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
